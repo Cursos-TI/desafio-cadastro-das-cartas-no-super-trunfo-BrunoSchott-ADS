@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <string.h> // Para usar strcspn
-#include <stdlib.h> // Para usar system
-#include <time.h> // Para usar srand e rand
 
 // Função para limpar o buffer de entrada
 void limparBuffer() {
